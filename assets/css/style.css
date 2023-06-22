@@ -6,7 +6,7 @@
 #main a {
     color: gray;
 }
-
+ 
 #main a:hover {
     color: rgb(73, 73, 73);
 }
